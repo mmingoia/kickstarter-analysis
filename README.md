@@ -26,5 +26,5 @@ Kickstarter Data Analysis for Module 1 of UTDA Bootcamp
 
 ## Challenge Work
 
-![Outcomes vs Goals](images/ChallengeLaunch.png)
+![Outcomes vs Goals](images/ChallengeGoals.png)
 ![Launch Date](images/ChallengeLaunch.png)
