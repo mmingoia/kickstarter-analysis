@@ -8,11 +8,11 @@ Kickstarter Data Analysis for Module 1 of UTDA Bootcamp
 
 1. The months with the highest success rates are May through July, November and Devember are the lowest.
 
-![Timing](images/Timing.png)
+![Timing](Timing.png)
 
 2. US Kickstarter Projects for Plays have a historical success rate of 61% 
 
-![Category Outcomes](images/CatOutcomes.png)
+![Category Outcomes](CatOutcomes.png)
 
 3. The mean goal of the successful projects is $5,049 vs $10,554 for the failed.
 
@@ -26,5 +26,5 @@ Kickstarter Data Analysis for Module 1 of UTDA Bootcamp
 
 ## Challenge Work
 
-![Outcomes vs Goals](images/ChallengeGoals.png)
-![Launch Date](images/ChallengeLaunch.png)
+![Outcomes vs Goals](ChallengeGoals.png)
+![Launch Date](ChallengeLaunch.png)
